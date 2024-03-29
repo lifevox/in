@@ -3,7 +3,7 @@
     <title>Lifevox ◆ india</title>
     <link href="https://lifevox.github.io/in/feed.xml" rel="self" />
     <link href="https://lifevox.github.io/in" />
-    <updated>2024-03-29T17:24:38+05:30</updated>
+    <updated>2024-03-29T17:29:02+05:30</updated>
     <author>
         <name>Shiva</name>
     </author>
@@ -17,8 +17,10 @@
         <link href="https://lifevox.github.io/in/top-10-smartphones-under-10000-in-india-march-2024/"/>
         <id>https://lifevox.github.io/in/top-10-smartphones-under-10000-in-india-march-2024/</id>
         <media:content url="https://lifevox.github.io/in/media/posts/27/Hero.jpg" medium="image" />
+            <category term="Mobile Phones"/>
+            <category term="Electronics"/>
 
-        <updated>2024-03-29T17:24:38+05:30</updated>
+        <updated>2024-03-29T17:29:02+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://lifevox.github.io/in/media/posts/27/Hero.jpg" alt="" />
